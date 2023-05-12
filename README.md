@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For the backend, I used [json-server]
+(https://www.npmjs.com/package/json-server) to create a fake REST API.
+The "database" is stored in the db.json file.
 
 ## Available Scripts
 
